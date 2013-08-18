@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-internal class IronMQSender
+internal class DropboxPhotoAlbumPublisher
 {
     private static void Main()
     {
+
     }
 }

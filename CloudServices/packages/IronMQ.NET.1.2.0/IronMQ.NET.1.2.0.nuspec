@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>IronMQ.NET</id>
+    <version>1.2.0</version>
+    <title>IronMQ.NET</title>
+    <authors>coreyauger,  odeits,  friism,  develop7,  treeder,  eskat0n</authors>
+    <owners>coreyauger,  odeits,  friism,  develop7,  treeder,  eskat0n</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>http://www.iron.io/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET library for IronMQ</description>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>Iron.io IronMQ MQ MessageQueue</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="4.5.4" />
+    </dependencies>
+  </metadata>
+</package>

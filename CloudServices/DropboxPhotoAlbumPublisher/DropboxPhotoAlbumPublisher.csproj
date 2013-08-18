@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A28B1024-EFAB-4B09-936D-DB677D45585B}</ProjectGuid>
+    <ProjectGuid>{A0CAB51D-1343-4358-9A6D-A80B0223D34E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IronMQSender</RootNamespace>
-    <AssemblyName>IronMQSender</AssemblyName>
+    <RootNamespace>DropboxPhotoAlbumPublisher</RootNamespace>
+    <AssemblyName>DropboxPhotoAlbumPublisher</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IronMQSender.cs" />
+    <Compile Include="DropboxPhotoAlbumPublisher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
